@@ -11,7 +11,7 @@ Tâches:
    1. créer entity commentaires
    2. créer form 
    3. créer controller, view
-   4. ajouter les constrainst 
+   4. ajouter les constrainst
 
 3. Créer le système d'authentification
    1. créer entity User
@@ -31,5 +31,10 @@ Tâches:
       * Vérifier si l'utilisateur possède le badge 
       * Débloquer le badge pour l'utilisateur
       * Emettre un évenement pour notifier l'utilisateur
-      
+
+6. Créer un EventBadgeUnlock
+7. Créer un EventSubscriber
+
+
+8. Créer un Eventcommentairecreated
 
